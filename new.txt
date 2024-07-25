@@ -1,3 +1,5 @@
 hi
 
 hello world
+What is a method in Java?
+A method is a block of code or collection of statements or a set of code grouped together to perform a certain task or operation. It is used to achieve the reusability of code. 
